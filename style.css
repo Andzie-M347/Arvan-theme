@@ -1,0 +1,24 @@
+/* 
+Theme Name: Arvan
+Them URI: https://andziemabaso.co.za/themes/arvan
+Author: Andzie 
+Version: 1.0
+Description: Multi purpose theme beautiful, stylish and user-friendly theme
+License: GNU General Public License v2 or later
+License URI: http: //www.gnu.org/licenses/gpl-2.0.html
+Tags: shapes, responsive, blog, clean, minimal, south africa
+*/
+
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    line-height: 1.7;
+}
